@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JSF 2.1 (Mojarra 2.1.6-FCS)"/>
+	<classpathentry kind="con" path="org.jboss.ide.eclipse.as.classpath.core.ejb3.classpathContainer/JBoss 7.1 Runtime Server"/>
+	<classpathentry kind="lib" path="/MyPractice/WebContent/WEB-INF/lib/jboss-client.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

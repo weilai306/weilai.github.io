@@ -1,0 +1,1051 @@
+2021-04-08 21:46:51 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 21:46:51 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 21:46:51 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 21:47:49 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 21:47:49 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 21:47:49 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 21:48:42 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 21:48:42 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 21:48:42 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 21:48:42 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID f0781508 (outbound) of Remoting connection 01ba0fda to localhost/127.0.0.1:4447
+2021-04-08 21:48:48 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 21:48:48 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 21:48:48 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 21:48:48 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID e287208f (outbound) of Remoting connection 00abf658 to localhost/127.0.0.1:4447
+2021-04-08 21:50:07 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 21:50:07 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 21:50:07 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 21:50:08 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 9fd6920f (outbound) of Remoting connection 00e29127 to localhost/127.0.0.1:4447
+2021-04-08 21:51:01 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 21:51:01 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 21:51:01 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 21:51:01 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 81376fb1 (outbound) of Remoting connection 00157985 to localhost/127.0.0.1:4447
+2021-04-08 21:51:07 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 21:51:07 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 21:51:07 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 21:51:07 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID dedf11d3 (outbound) of Remoting connection 000d741c to null
+2021-04-08 21:52:32 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 21:52:32 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 21:52:32 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 21:52:33 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 9a626b92 (outbound) of Remoting connection 00157985 to localhost/127.0.0.1:4447
+2021-04-08 21:53:10 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 21:53:10 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 21:53:10 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 21:53:11 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID c421e490 (outbound) of Remoting connection 01dd1a31 to localhost/127.0.0.1:4447
+2021-04-08 21:53:16 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 21:53:16 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 21:53:16 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 21:53:16 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 98cd5e1e (outbound) of Remoting connection 01dd1a31 to localhost/127.0.0.1:4447
+2021-04-08 22:01:14 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:01:14 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:01:14 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:01:14 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID fb84544e (outbound) of Remoting connection 00157985 to localhost/127.0.0.1:4447
+2021-04-08 22:02:53 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:02:53 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:02:53 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:02:54 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 950e1051 (outbound) of Remoting connection 01e2b9d1 to localhost/127.0.0.1:4447
+2021-04-08 22:03:01 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:03:01 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:03:01 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:03:01 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID b4f61b83 (outbound) of Remoting connection 00bc5aea to localhost/127.0.0.1:4447
+2021-04-08 22:03:15 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:03:15 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:03:15 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:03:15 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID d1e46eb6 (outbound) of Remoting connection 00157985 to localhost/127.0.0.1:4447
+2021-04-08 22:10:58 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:10:58 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:10:58 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:10:58 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 9178e4ed (outbound) of Remoting connection 0066db21 to localhost/127.0.0.1:4447
+2021-04-08 22:11:05 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:11:05 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:11:05 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:11:05 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID a771666a (outbound) of Remoting connection 01f4ba0d to localhost/127.0.0.1:4447
+2021-04-08 22:13:14 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:13:14 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:13:14 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:13:14 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID f973d9d7 (outbound) of Remoting connection 0066db21 to localhost/127.0.0.1:4447
+2021-04-08 22:13:21 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:13:21 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:13:21 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:13:22 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID edfd2914 (outbound) of Remoting connection 00157985 to localhost/127.0.0.1:4447
+2021-04-08 22:13:50 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:13:50 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:13:50 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:13:51 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 8b78fa2d (outbound) of Remoting connection 00a7a434 to localhost/127.0.0.1:4447
+2021-04-08 22:14:40 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:14:40 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:14:40 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:14:40 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID e0a1a2db (outbound) of Remoting connection 00157985 to localhost/127.0.0.1:4447
+2021-04-08 22:14:45 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:14:45 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:14:45 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:14:46 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID d0e0abe2 (outbound) of Remoting connection 01f4ba0d to localhost/127.0.0.1:4447
+2021-04-08 22:14:56 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:14:56 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:14:56 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:14:56 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID b51cff2f (outbound) of Remoting connection 01dd1a31 to localhost/127.0.0.1:4447
+2021-04-08 22:20:49 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:20:49 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:20:49 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:20:49 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 94de18cf (outbound) of Remoting connection 0141e072 to localhost/127.0.0.1:4447
+2021-04-08 22:21:00 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:21:00 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:21:00 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:21:00 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID f4a9fbe1 (outbound) of Remoting connection 01dd1a31 to localhost/127.0.0.1:4447
+2021-04-08 22:21:09 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:21:09 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:21:09 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:21:09 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 96ea76c3 (outbound) of Remoting connection 01f4ba0d to localhost/127.0.0.1:4447
+2021-04-08 22:24:25 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:24:25 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:24:25 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:24:26 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID cf820639 (outbound) of Remoting connection 00bc5aea to localhost/127.0.0.1:4447
+2021-04-08 22:25:35 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:25:35 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:25:35 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:25:35 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID f94c35c2 (outbound) of Remoting connection 0066db21 to localhost/127.0.0.1:4447
+2021-04-08 22:26:40 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:26:40 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:26:40 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:26:40 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID a43df1bd (outbound) of Remoting connection 00bc5aea to localhost/127.0.0.1:4447
+2021-04-08 22:27:07 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:27:07 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:27:07 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:27:07 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID d0357cfc (outbound) of Remoting connection 01dd1a31 to localhost/127.0.0.1:4447
+2021-04-08 22:27:37 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:27:37 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:27:37 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:27:37 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID abe7d7a0 (outbound) of Remoting connection 01dd1a31 to localhost/127.0.0.1:4447
+2021-04-08 22:27:42 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:27:42 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:27:42 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:27:42 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID edc07992 (outbound) of Remoting connection 01f4ba0d to localhost/127.0.0.1:4447
+2021-04-08 22:31:10 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:31:10 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:31:10 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:31:11 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 9368fa9e (outbound) of Remoting connection 00bc5aea to localhost/127.0.0.1:4447
+2021-04-08 22:31:47 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:31:47 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:31:47 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:31:47 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID c1590bce (outbound) of Remoting connection 01dd1a31 to localhost/127.0.0.1:4447
+2021-04-08 22:44:11 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:44:11 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:44:11 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:44:11 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID d9d5901b (outbound) of Remoting connection 00bc5aea to localhost/127.0.0.1:4447
+2021-04-08 22:44:43 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:44:43 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:44:43 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:44:43 org.jboss.remoting3.remote.RemoteConnection.handleException(RemoteConnection.java:99) RemoteConnection.java ERROR JBREM000200: Remote connection failed: javax.security.sasl.SaslException: Authentication failed: all available authentication mechanisms failed
+2021-04-08 22:44:56 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:44:56 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:44:56 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:44:56 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID a0a68af3 (outbound) of Remoting connection 00bc5aea to localhost/127.0.0.1:4447
+2021-04-08 22:45:21 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:45:21 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:45:21 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:45:21 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 9d217802 (outbound) of Remoting connection 0127a891 to localhost/127.0.0.1:4447
+2021-04-08 22:45:24 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:45:24 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:45:24 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:45:36 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:45:36 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:45:36 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:45:45 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:45:45 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:45:45 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:58:08 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 22:58:08 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 22:58:08 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 22:58:08 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID a74c592b (outbound) of Remoting connection 0127a891 to localhost/127.0.0.1:4447
+2021-04-08 23:03:14 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 23:03:14 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 23:03:14 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 23:03:14 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 9f0d4359 (outbound) of Remoting connection 00bc5aea to localhost/127.0.0.1:4447
+2021-04-08 23:06:14 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 23:06:14 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 23:06:14 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 23:06:15 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID f52b4259 (outbound) of Remoting connection 00bc5aea to localhost/127.0.0.1:4447
+2021-04-08 23:06:38 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 23:06:38 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 23:06:38 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 23:07:03 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 23:07:03 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 23:07:03 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 23:07:07 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 23:07:07 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 23:07:07 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 23:15:04 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 23:15:04 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 23:15:04 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 23:15:04 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID a8dd96c0 (outbound) of Remoting connection 00bc5aea to localhost/127.0.0.1:4447
+2021-04-08 23:15:31 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 23:15:31 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 23:15:31 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 23:15:37 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 23:15:37 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 23:15:37 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 23:16:05 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 23:16:05 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 23:16:05 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 23:16:13 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 23:16:13 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 23:16:13 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 23:16:16 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 23:16:16 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 23:16:16 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 23:17:04 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 23:17:04 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 23:17:04 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 23:17:10 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 23:17:10 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 23:17:10 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 23:17:10 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID ee7fb9e0 (outbound) of Remoting connection 00abf658 to localhost/127.0.0.1:4447
+2021-04-08 23:18:20 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 23:18:20 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 23:18:20 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 23:18:20 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID a7beb195 (outbound) of Remoting connection 0127a891 to localhost/127.0.0.1:4447
+2021-04-08 23:21:19 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 23:21:19 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 23:21:19 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 23:21:19 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID db411b7d (outbound) of Remoting connection 0127a891 to localhost/127.0.0.1:4447
+2021-04-08 23:21:42 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 23:21:42 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 23:21:42 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 23:21:43 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 834416f7 (outbound) of Remoting connection 0127a891 to localhost/127.0.0.1:4447
+2021-04-08 23:22:17 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 23:22:17 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 23:22:17 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 23:22:17 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 905a5557 (outbound) of Remoting connection 0066db21 to localhost/127.0.0.1:4447
+2021-04-08 23:22:58 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 23:22:58 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 23:22:58 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 23:22:59 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID f4f5f72c (outbound) of Remoting connection 00bc5aea to localhost/127.0.0.1:4447
+2021-04-08 23:24:00 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-08 23:24:00 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-08 23:24:00 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-08 23:24:00 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 9d6365e9 (outbound) of Remoting connection 0066db21 to localhost/127.0.0.1:4447
+2021-04-09 11:56:57 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 11:56:57 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 11:56:57 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 11:56:57 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 8baa7cc3 (outbound) of Remoting connection 0066db21 to localhost/127.0.0.1:4447
+2021-04-09 11:57:17 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 11:57:17 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 11:57:17 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 11:57:18 org.jboss.remoting3.remote.RemoteConnection.handleException(RemoteConnection.java:99) RemoteConnection.java ERROR JBREM000200: Remote connection failed: javax.security.sasl.SaslException: Authentication failed: all available authentication mechanisms failed
+2021-04-09 11:57:51 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 11:57:51 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 11:57:51 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 11:57:51 org.jboss.remoting3.remote.RemoteConnection.handleException(RemoteConnection.java:99) RemoteConnection.java ERROR JBREM000200: Remote connection failed: javax.security.sasl.SaslException: Authentication failed: all available authentication mechanisms failed
+2021-04-09 11:57:56 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 11:57:56 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 11:57:56 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 11:57:56 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 81028d1a (outbound) of Remoting connection 0066db21 to localhost/127.0.0.1:4447
+2021-04-09 11:58:18 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 11:58:18 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 11:58:18 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 11:58:18 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 8e013927 (outbound) of Remoting connection 0066db21 to localhost/127.0.0.1:4447
+2021-04-09 11:58:25 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 11:58:25 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 11:58:25 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 11:58:26 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID a9bf5f55 (outbound) of Remoting connection 0066db21 to localhost/127.0.0.1:4447
+2021-04-09 11:58:28 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 11:58:28 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 11:58:28 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 11:58:28 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID b6e4c30d (outbound) of Remoting connection 00157985 to localhost/127.0.0.1:4447
+2021-04-09 11:58:29 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 11:58:29 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 11:58:29 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 11:58:29 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID c7d2b942 (outbound) of Remoting connection 0066db21 to localhost/127.0.0.1:4447
+2021-04-09 11:58:30 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 11:58:30 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 11:58:30 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 11:58:31 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 83b5389d (outbound) of Remoting connection 0066db21 to localhost/127.0.0.1:4447
+2021-04-09 11:58:32 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 11:58:32 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 11:58:32 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 11:58:32 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 9cfeba38 (outbound) of Remoting connection 01dd1a31 to localhost/127.0.0.1:4447
+2021-04-09 11:58:39 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 11:58:39 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 11:58:39 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 11:58:39 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID e05781a0 (outbound) of Remoting connection 0066db21 to localhost/127.0.0.1:4447
+2021-04-09 11:58:44 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 11:58:44 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 11:58:44 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 11:58:45 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID a2660e53 (outbound) of Remoting connection 00bc5aea to localhost/127.0.0.1:4447
+2021-04-09 11:58:46 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 11:58:46 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 11:58:46 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 11:58:46 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID ec26e33a (outbound) of Remoting connection 00157985 to localhost/127.0.0.1:4447
+2021-04-09 11:58:58 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 11:58:58 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 11:58:58 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 11:58:59 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID a60ee826 (outbound) of Remoting connection 00157985 to localhost/127.0.0.1:4447
+2021-04-09 11:59:20 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 11:59:20 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 11:59:20 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 11:59:20 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID b1995dfe (outbound) of Remoting connection 00157985 to localhost/127.0.0.1:4447
+2021-04-09 11:59:21 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 11:59:21 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 11:59:21 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 11:59:22 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID eedd4e2a (outbound) of Remoting connection 0066db21 to localhost/127.0.0.1:4447
+2021-04-09 11:59:23 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 11:59:23 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 11:59:23 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 11:59:23 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID d3fb39f5 (outbound) of Remoting connection 00157985 to localhost/127.0.0.1:4447
+2021-04-09 12:00:13 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:00:13 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:00:13 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:00:14 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID facca29b (outbound) of Remoting connection 00bc5aea to localhost/127.0.0.1:4447
+2021-04-09 12:00:21 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:00:21 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:00:21 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:00:21 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 95fa36a1 (outbound) of Remoting connection 01795976 to null
+2021-04-09 12:16:48 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:16:48 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:16:48 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:16:48 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID f113caad (outbound) of Remoting connection 00157985 to localhost/127.0.0.1:4447
+2021-04-09 12:16:54 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:16:54 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:16:54 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:16:54 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID a9852209 (outbound) of Remoting connection 0127a891 to localhost/127.0.0.1:4447
+2021-04-09 12:17:27 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:17:27 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:17:27 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:17:27 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID bac0fd5c (outbound) of Remoting connection 00bc5aea to localhost/127.0.0.1:4447
+2021-04-09 12:17:46 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:17:46 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:17:46 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:17:46 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 8a19f7ca (outbound) of Remoting connection 01ba0fda to localhost/127.0.0.1:4447
+2021-04-09 12:23:56 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:23:56 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:23:56 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:23:57 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID cd885a3f (outbound) of Remoting connection 00a7a434 to null
+2021-04-09 12:23:59 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:23:59 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:23:59 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:23:59 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID ee18de0a (outbound) of Remoting connection 00bc5aea to localhost/127.0.0.1:4447
+2021-04-09 12:24:00 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:24:00 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:24:00 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:24:01 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 9e522b28 (outbound) of Remoting connection 0066db21 to localhost/127.0.0.1:4447
+2021-04-09 12:24:02 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:24:02 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:24:02 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:24:02 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID f57bc841 (outbound) of Remoting connection 01e2b9d1 to null
+2021-04-09 12:27:16 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:27:16 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:27:16 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:27:33 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:27:33 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:27:33 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:27:33 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 985eed7e (outbound) of Remoting connection 00bc5aea to localhost/127.0.0.1:4447
+2021-04-09 12:27:45 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:27:45 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:27:45 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:27:45 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID d4851baf (outbound) of Remoting connection 01f4ba0d to localhost/127.0.0.1:4447
+2021-04-09 12:27:47 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:27:47 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:27:47 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:27:47 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID fbac02d3 (outbound) of Remoting connection 00157985 to null
+2021-04-09 12:28:05 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:28:05 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:28:05 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:28:05 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 90ab6069 (outbound) of Remoting connection 01f4ba0d to localhost/127.0.0.1:4447
+2021-04-09 12:28:07 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:28:07 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:28:07 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:28:07 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID ef40f48c (outbound) of Remoting connection 00bc5aea to localhost/127.0.0.1:4447
+2021-04-09 12:28:08 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:28:08 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:28:08 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:28:08 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID e027da8f (outbound) of Remoting connection 0066db21 to localhost/127.0.0.1:4447
+2021-04-09 12:28:09 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:28:09 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:28:09 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:28:09 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 92ce9de1 (outbound) of Remoting connection 00157985 to localhost/127.0.0.1:4447
+2021-04-09 12:28:10 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:28:10 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:28:10 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:28:10 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID b0c4c071 (outbound) of Remoting connection 01e2b9d1 to null
+2021-04-09 12:28:11 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:28:11 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:28:11 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:28:12 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID a7632cf0 (outbound) of Remoting connection 00157985 to null
+2021-04-09 12:28:21 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:28:21 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:28:21 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:28:21 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID ed0c56d8 (outbound) of Remoting connection 01dd1a31 to localhost/127.0.0.1:4447
+2021-04-09 12:28:23 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:28:23 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:28:23 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:28:23 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID e02db8c4 (outbound) of Remoting connection 00157985 to localhost/127.0.0.1:4447
+2021-04-09 12:28:25 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:28:25 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:28:25 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:28:25 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID ff01269d (outbound) of Remoting connection 0066db21 to localhost/127.0.0.1:4447
+2021-04-09 12:29:29 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:29:29 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:29:29 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:29:30 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID c9c5a613 (outbound) of Remoting connection 00157985 to localhost/127.0.0.1:4447
+2021-04-09 12:31:41 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:31:41 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:31:41 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:32:10 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:32:10 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:32:10 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:32:10 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID d9938798 (outbound) of Remoting connection 01e2b9d1 to null
+2021-04-09 12:32:14 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:32:14 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:32:14 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:32:14 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID cacdd9e6 (outbound) of Remoting connection 00e29127 to localhost/127.0.0.1:4447
+2021-04-09 12:32:18 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:32:18 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:32:18 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:32:18 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID f4d71507 (outbound) of Remoting connection 00bc5aea to localhost/127.0.0.1:4447
+2021-04-09 12:32:19 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:32:19 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:32:19 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:32:20 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID b907bbd7 (outbound) of Remoting connection 01dd1a31 to localhost/127.0.0.1:4447
+2021-04-09 12:32:22 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-09 12:32:22 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-09 12:32:22 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-09 12:32:22 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID c53c77dd (outbound) of Remoting connection 0066db21 to localhost/127.0.0.1:4447
+2021-04-13 16:16:38 org.jboss.ejb.client.EJBClient.<clinit>(EJBClient.java:42) EJBClient.java INFO JBoss EJB Client version 1.0.5.Final
+2021-04-13 16:16:38 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-13 16:16:38 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-13 16:16:38 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-13 16:16:43 org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:133) ConfigBasedEJBClientContextSelector.java WARN Could not register a EJB receiver for connection to remote://localhost:8080
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.ejb.client.remoting.IoFutureHelper.get(IoFutureHelper.java:93)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:121)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.<init>(ConfigBasedEJBClientContextSelector.java:78)
+	at org.jboss.ejb.client.EJBClientContext.<clinit>(EJBClientContext.java:77)
+	at org.jboss.ejb.client.EJBInvocationHandler.doInvoke(EJBInvocationHandler.java:120)
+	at org.jboss.ejb.client.EJBInvocationHandler.invoke(EJBInvocationHandler.java:104)
+	at com.sun.proxy.$Proxy0.callEJBOne(Unknown Source)
+	at javaee.ejb.statelessclient.StatelessLocalClient.main(StatelessLocalClient.java:22)
+2021-04-13 16:19:52 org.jboss.ejb.client.EJBClient.<clinit>(EJBClient.java:42) EJBClient.java INFO JBoss EJB Client version 1.0.5.Final
+2021-04-13 16:19:52 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-13 16:19:52 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-13 16:19:52 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-13 16:19:57 org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:133) ConfigBasedEJBClientContextSelector.java WARN Could not register a EJB receiver for connection to remote://localhost:8080
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.ejb.client.remoting.IoFutureHelper.get(IoFutureHelper.java:93)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:121)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.<init>(ConfigBasedEJBClientContextSelector.java:78)
+	at org.jboss.ejb.client.EJBClientContext.<clinit>(EJBClientContext.java:77)
+	at org.jboss.ejb.client.EJBInvocationHandler.doInvoke(EJBInvocationHandler.java:120)
+	at org.jboss.ejb.client.EJBInvocationHandler.invoke(EJBInvocationHandler.java:104)
+	at com.sun.proxy.$Proxy0.callEJBOne(Unknown Source)
+	at javaee.ejb.statelessclient.StatelessLocalClient.main(StatelessLocalClient.java:22)
+2021-04-13 16:23:29 org.jboss.ejb.client.EJBClient.<clinit>(EJBClient.java:42) EJBClient.java INFO JBoss EJB Client version 1.0.5.Final
+2021-04-13 16:23:29 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-13 16:23:29 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-13 16:23:29 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-13 16:23:34 org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:133) ConfigBasedEJBClientContextSelector.java WARN Could not register a EJB receiver for connection to remote://localhost:8080
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.ejb.client.remoting.IoFutureHelper.get(IoFutureHelper.java:93)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:121)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.<init>(ConfigBasedEJBClientContextSelector.java:78)
+	at org.jboss.ejb.client.EJBClientContext.<clinit>(EJBClientContext.java:77)
+	at org.jboss.ejb.client.EJBInvocationHandler.doInvoke(EJBInvocationHandler.java:120)
+	at org.jboss.ejb.client.EJBInvocationHandler.invoke(EJBInvocationHandler.java:104)
+	at com.sun.proxy.$Proxy0.callEJBOne(Unknown Source)
+	at javaee.ejb.statelessclient.StatelessLocalClient.main(StatelessLocalClient.java:22)
+2021-04-17 16:13:55 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-17 16:13:56 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-17 16:13:56 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-17 16:13:56 org.jboss.remoting3.remote.RemoteConnection.handleException(RemoteConnection.java:99) RemoteConnection.java ERROR JBREM000200: Remote connection failed: javax.security.sasl.SaslException: Authentication failed: all available authentication mechanisms failed
+2021-04-17 16:14:17 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-17 16:14:17 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-17 16:14:17 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-17 16:14:17 org.jboss.remoting3.remote.RemoteConnection.handleException(RemoteConnection.java:99) RemoteConnection.java ERROR JBREM000200: Remote connection failed: javax.security.sasl.SaslException: Authentication failed: all available authentication mechanisms failed
+2021-04-17 16:14:28 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-17 16:14:28 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-17 16:14:28 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-17 16:14:33 org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:133) ConfigBasedEJBClientContextSelector.java WARN Could not register a EJB receiver for connection to remote://localhost:8080
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.ejb.client.remoting.IoFutureHelper.get(IoFutureHelper.java:93)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:121)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.<init>(ConfigBasedEJBClientContextSelector.java:78)
+	at org.jboss.ejb.client.EJBClientContext.<clinit>(EJBClientContext.java:77)
+	at org.jboss.naming.remote.client.ejb.RemoteNamingEjbClientContextSelector.setupSelector(RemoteNamingEjbClientContextSelector.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.jboss.naming.remote.client.InitialContextFactory.setupEjbContext(InitialContextFactory.java:420)
+	at org.jboss.naming.remote.client.InitialContextFactory.getInitialContext(InitialContextFactory.java:115)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:684)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:307)
+	at javax.naming.InitialContext.init(InitialContext.java:242)
+	at javax.naming.InitialContext.<init>(InitialContext.java:216)
+	at javaee.ejb.statelessclient.StatelessRemoteClient.main(StatelessRemoteClient.java:24)
+2021-04-17 16:14:33 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-17 16:14:33 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@80a22, receiver=Remoting connection EJB receiver [connection=Remoting connection <115d277>,channel=jboss.ejb,nodename=xf0lgz297c7ilpe]} on channel Channel ID a8c8b5f0 (outbound) of Remoting connection 008079cf to localhost/127.0.0.1:4447
+2021-04-17 16:14:33 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-17 16:14:33 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 9f2f146e (outbound) of Remoting connection 008079cf to localhost/127.0.0.1:4447
+2021-04-17 16:14:33 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID a8c8b5f0 (outbound) of Remoting connection 008079cf to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-17 16:14:54 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-17 16:14:54 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-17 16:14:54 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-17 16:14:59 org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:133) ConfigBasedEJBClientContextSelector.java WARN Could not register a EJB receiver for connection to remote://localhost:8080
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.ejb.client.remoting.IoFutureHelper.get(IoFutureHelper.java:93)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:121)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.<init>(ConfigBasedEJBClientContextSelector.java:78)
+	at org.jboss.ejb.client.EJBClientContext.<clinit>(EJBClientContext.java:77)
+	at org.jboss.naming.remote.client.ejb.RemoteNamingEjbClientContextSelector.setupSelector(RemoteNamingEjbClientContextSelector.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.jboss.naming.remote.client.InitialContextFactory.setupEjbContext(InitialContextFactory.java:420)
+	at org.jboss.naming.remote.client.InitialContextFactory.getInitialContext(InitialContextFactory.java:115)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:684)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:307)
+	at javax.naming.InitialContext.init(InitialContext.java:242)
+	at javax.naming.InitialContext.<init>(InitialContext.java:216)
+	at javaee.ejb.statelessclient.StatelessRemoteClient.main(StatelessRemoteClient.java:24)
+2021-04-17 16:14:59 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-17 16:14:59 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@1fa522d, receiver=Remoting connection EJB receiver [connection=Remoting connection <3ba2a0>,channel=jboss.ejb,nodename=xf0lgz297c7ilpe]} on channel Channel ID ee05f818 (outbound) of Remoting connection 00d0dfba to localhost/127.0.0.1:4447
+2021-04-17 16:14:59 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-17 16:14:59 org.jboss.remoting3.remote.RemoteConnection.handleException(RemoteConnection.java:99) RemoteConnection.java ERROR JBREM000200: Remote connection failed: java.io.IOException: JBREM000202: Abrupt close on Remoting connection 006edf0a to localhost/127.0.0.1:8080
+2021-04-17 16:14:59 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID ee05f818 (outbound) of Remoting connection 00d0dfba to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-17 16:14:59 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID ed4cc93d (outbound) of Remoting connection 00d0dfba to localhost/127.0.0.1:4447
+2021-04-17 16:15:11 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-17 16:15:11 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-17 16:15:11 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-17 16:15:16 org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:133) ConfigBasedEJBClientContextSelector.java WARN Could not register a EJB receiver for connection to remote://localhost:8080
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.ejb.client.remoting.IoFutureHelper.get(IoFutureHelper.java:93)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:121)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.<init>(ConfigBasedEJBClientContextSelector.java:78)
+	at org.jboss.ejb.client.EJBClientContext.<clinit>(EJBClientContext.java:77)
+	at org.jboss.naming.remote.client.ejb.RemoteNamingEjbClientContextSelector.setupSelector(RemoteNamingEjbClientContextSelector.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.jboss.naming.remote.client.InitialContextFactory.setupEjbContext(InitialContextFactory.java:420)
+	at org.jboss.naming.remote.client.InitialContextFactory.getInitialContext(InitialContextFactory.java:115)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:684)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:307)
+	at javax.naming.InitialContext.init(InitialContext.java:242)
+	at javax.naming.InitialContext.<init>(InitialContext.java:216)
+	at javaee.ejb.statelessclient.StatelessRemoteClient.main(StatelessRemoteClient.java:24)
+2021-04-17 16:15:16 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-17 16:15:16 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@c73ac2, receiver=Remoting connection EJB receiver [connection=Remoting connection <131cb02>,channel=jboss.ejb,nodename=xf0lgz297c7ilpe]} on channel Channel ID f3d0e5e7 (outbound) of Remoting connection 011fca63 to localhost/127.0.0.1:4447
+2021-04-17 16:15:16 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-17 16:15:16 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID a0655ce1 (outbound) of Remoting connection 011fca63 to localhost/127.0.0.1:4447
+2021-04-17 16:15:16 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID f3d0e5e7 (outbound) of Remoting connection 011fca63 to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-17 16:17:11 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-17 16:17:11 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-17 16:17:11 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-17 16:17:18 org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:133) ConfigBasedEJBClientContextSelector.java WARN Could not register a EJB receiver for connection to remote://localhost:8080
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.ejb.client.remoting.IoFutureHelper.get(IoFutureHelper.java:93)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:121)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.<init>(ConfigBasedEJBClientContextSelector.java:78)
+	at org.jboss.ejb.client.EJBClientContext.<clinit>(EJBClientContext.java:77)
+	at org.jboss.naming.remote.client.ejb.RemoteNamingEjbClientContextSelector.setupSelector(RemoteNamingEjbClientContextSelector.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.jboss.naming.remote.client.InitialContextFactory.setupEjbContext(InitialContextFactory.java:420)
+	at org.jboss.naming.remote.client.InitialContextFactory.getInitialContext(InitialContextFactory.java:115)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:684)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:307)
+	at javax.naming.InitialContext.init(InitialContext.java:242)
+	at javax.naming.InitialContext.<init>(InitialContext.java:216)
+	at javaee.ejb.statelessclient.StatelessRemoteClient.main(StatelessRemoteClient.java:24)
+2021-04-17 16:17:18 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-17 16:17:18 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@dee6e2, receiver=Remoting connection EJB receiver [connection=Remoting connection <115d277>,channel=jboss.ejb,nodename=xf0lgz297c7ilpe]} on channel Channel ID 9cefebb2 (outbound) of Remoting connection 01c721de to localhost/127.0.0.1:4447
+2021-04-17 16:17:18 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-17 16:17:18 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID cfc0137d (outbound) of Remoting connection 01c721de to localhost/127.0.0.1:4447
+2021-04-17 16:17:18 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID 9cefebb2 (outbound) of Remoting connection 01c721de to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-17 16:17:48 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-17 16:17:48 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-17 16:17:48 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-17 16:17:55 org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:133) ConfigBasedEJBClientContextSelector.java WARN Could not register a EJB receiver for connection to remote://localhost:8080
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.ejb.client.remoting.IoFutureHelper.get(IoFutureHelper.java:93)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:121)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.<init>(ConfigBasedEJBClientContextSelector.java:78)
+	at org.jboss.ejb.client.EJBClientContext.<clinit>(EJBClientContext.java:77)
+	at org.jboss.naming.remote.client.ejb.RemoteNamingEjbClientContextSelector.setupSelector(RemoteNamingEjbClientContextSelector.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.jboss.naming.remote.client.InitialContextFactory.setupEjbContext(InitialContextFactory.java:420)
+	at org.jboss.naming.remote.client.InitialContextFactory.getInitialContext(InitialContextFactory.java:115)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:684)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:307)
+	at javax.naming.InitialContext.init(InitialContext.java:242)
+	at javax.naming.InitialContext.<init>(InitialContext.java:216)
+	at javaee.ejb.statelessclient.StatelessRemoteClient.main(StatelessRemoteClient.java:24)
+2021-04-17 16:17:55 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-17 16:17:55 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@1d159e4, receiver=Remoting connection EJB receiver [connection=Remoting connection <1acc1c2>,channel=jboss.ejb,nodename=xf0lgz297c7ilpe]} on channel Channel ID f5dc76f6 (outbound) of Remoting connection 00bd16bb to localhost/127.0.0.1:4447
+2021-04-17 16:17:55 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-17 16:17:57 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID f5dc76f6 (outbound) of Remoting connection 00bd16bb to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-17 16:17:57 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 996091c4 (outbound) of Remoting connection 00bd16bb to localhost/127.0.0.1:4447
+2021-04-17 16:22:22 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-17 16:22:22 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-17 16:22:22 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-17 16:22:27 org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:133) ConfigBasedEJBClientContextSelector.java WARN Could not register a EJB receiver for connection to remote://localhost:8080
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.ejb.client.remoting.IoFutureHelper.get(IoFutureHelper.java:93)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:121)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.<init>(ConfigBasedEJBClientContextSelector.java:78)
+	at org.jboss.ejb.client.EJBClientContext.<clinit>(EJBClientContext.java:77)
+	at org.jboss.naming.remote.client.ejb.RemoteNamingEjbClientContextSelector.setupSelector(RemoteNamingEjbClientContextSelector.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.jboss.naming.remote.client.InitialContextFactory.setupEjbContext(InitialContextFactory.java:420)
+	at org.jboss.naming.remote.client.InitialContextFactory.getInitialContext(InitialContextFactory.java:115)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:684)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:307)
+	at javax.naming.InitialContext.init(InitialContext.java:242)
+	at javax.naming.InitialContext.<init>(InitialContext.java:216)
+	at javaee.ejb.statelessclient.StatelessRemoteClient.main(StatelessRemoteClient.java:21)
+2021-04-17 16:22:27 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-17 16:22:27 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@659512, receiver=Remoting connection EJB receiver [connection=Remoting connection <272111>,channel=jboss.ejb,nodename=xf0lgz297c7ilpe]} on channel Channel ID f5d162eb (outbound) of Remoting connection 0078b825 to localhost/127.0.0.1:4447
+2021-04-17 16:22:27 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-17 16:22:27 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID f5d162eb (outbound) of Remoting connection 0078b825 to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-17 16:22:27 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID e93199d4 (outbound) of Remoting connection 0078b825 to localhost/127.0.0.1:4447
+2021-04-17 16:38:32 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-17 16:38:32 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-17 16:38:32 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-17 16:38:38 org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:133) ConfigBasedEJBClientContextSelector.java WARN Could not register a EJB receiver for connection to remote://localhost:8080
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.ejb.client.remoting.IoFutureHelper.get(IoFutureHelper.java:93)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:121)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.<init>(ConfigBasedEJBClientContextSelector.java:78)
+	at org.jboss.ejb.client.EJBClientContext.<clinit>(EJBClientContext.java:77)
+	at org.jboss.naming.remote.client.ejb.RemoteNamingEjbClientContextSelector.setupSelector(RemoteNamingEjbClientContextSelector.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.jboss.naming.remote.client.InitialContextFactory.setupEjbContext(InitialContextFactory.java:420)
+	at org.jboss.naming.remote.client.InitialContextFactory.getInitialContext(InitialContextFactory.java:115)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:684)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:307)
+	at javax.naming.InitialContext.init(InitialContext.java:242)
+	at javax.naming.InitialContext.<init>(InitialContext.java:216)
+	at javaee.ejb.statelessclient.StatelessRemoteClient.main(StatelessRemoteClient.java:21)
+2021-04-17 16:38:38 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-17 16:38:38 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@dee6e2, receiver=Remoting connection EJB receiver [connection=Remoting connection <115d277>,channel=jboss.ejb,nodename=xf0lgz297c7ilpe]} on channel Channel ID c2bc46e7 (outbound) of Remoting connection 01c721de to localhost/127.0.0.1:4447
+2021-04-17 16:38:38 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-17 16:38:38 org.xnio.ChannelListeners.invokeChannelListener(ChannelListeners.java:74) ChannelListeners.java ERROR A channel event listener threw an exception
+java.lang.IllegalStateException
+	at org.xnio.Buffers$4.getResource(Buffers.java:1782)
+	at org.xnio.Buffers$4.getResource(Buffers.java:1768)
+	at org.xnio.channels.FramedMessageChannel.receive(FramedMessageChannel.java:84)
+	at org.jboss.remoting3.remote.ClientConnectionOpenListener$Greeting.handleEvent(ClientConnectionOpenListener.java:138)
+	at org.jboss.remoting3.remote.ClientConnectionOpenListener$Greeting.handleEvent(ClientConnectionOpenListener.java:130)
+	at org.xnio.ChannelListeners.invokeChannelListener(ChannelListeners.java:72)
+	at org.xnio.channels.TranslatingSuspendableChannel.handleReadable(TranslatingSuspendableChannel.java:189)
+	at org.xnio.channels.TranslatingSuspendableChannel$1.handleEvent(TranslatingSuspendableChannel.java:103)
+	at org.xnio.ChannelListeners.invokeChannelListener(ChannelListeners.java:72)
+	at org.xnio.nio.NioHandle.run(NioHandle.java:90)
+	at org.xnio.nio.WorkerThread.run(WorkerThread.java:184)
+2021-04-17 16:38:38 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID c2bc46e7 (outbound) of Remoting connection 01c721de to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-17 16:38:38 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID bc3ebcf9 (outbound) of Remoting connection 01c721de to localhost/127.0.0.1:4447
+2021-04-17 16:38:44 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-17 16:38:44 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-17 16:38:44 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-17 16:38:49 org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:133) ConfigBasedEJBClientContextSelector.java WARN Could not register a EJB receiver for connection to remote://localhost:8080
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.ejb.client.remoting.IoFutureHelper.get(IoFutureHelper.java:93)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:121)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.<init>(ConfigBasedEJBClientContextSelector.java:78)
+	at org.jboss.ejb.client.EJBClientContext.<clinit>(EJBClientContext.java:77)
+	at org.jboss.naming.remote.client.ejb.RemoteNamingEjbClientContextSelector.setupSelector(RemoteNamingEjbClientContextSelector.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.jboss.naming.remote.client.InitialContextFactory.setupEjbContext(InitialContextFactory.java:420)
+	at org.jboss.naming.remote.client.InitialContextFactory.getInitialContext(InitialContextFactory.java:115)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:684)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:307)
+	at javax.naming.InitialContext.init(InitialContext.java:242)
+	at javax.naming.InitialContext.<init>(InitialContext.java:216)
+	at javaee.ejb.statelessclient.StatelessRemoteClient.main(StatelessRemoteClient.java:21)
+2021-04-17 16:38:49 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-17 16:38:49 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@dee6e2, receiver=Remoting connection EJB receiver [connection=Remoting connection <115d277>,channel=jboss.ejb,nodename=xf0lgz297c7ilpe]} on channel Channel ID a2751c18 (outbound) of Remoting connection 01c721de to localhost/127.0.0.1:4447
+2021-04-17 16:38:49 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-17 16:38:49 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID a2751c18 (outbound) of Remoting connection 01c721de to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-17 16:38:49 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID fee33a51 (outbound) of Remoting connection 01c721de to localhost/127.0.0.1:4447
+2021-04-17 16:44:41 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-17 16:44:41 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-17 16:44:41 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-17 16:44:47 org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:133) ConfigBasedEJBClientContextSelector.java WARN Could not register a EJB receiver for connection to remote://localhost:8080
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.ejb.client.remoting.IoFutureHelper.get(IoFutureHelper.java:93)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:121)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.<init>(ConfigBasedEJBClientContextSelector.java:78)
+	at org.jboss.ejb.client.EJBClientContext.<clinit>(EJBClientContext.java:77)
+	at org.jboss.naming.remote.client.ejb.RemoteNamingEjbClientContextSelector.setupSelector(RemoteNamingEjbClientContextSelector.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.jboss.naming.remote.client.InitialContextFactory.setupEjbContext(InitialContextFactory.java:420)
+	at org.jboss.naming.remote.client.InitialContextFactory.getInitialContext(InitialContextFactory.java:115)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:684)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:307)
+	at javax.naming.InitialContext.init(InitialContext.java:242)
+	at javax.naming.InitialContext.<init>(InitialContext.java:216)
+	at jluee.client.RemoteClient.main(RemoteClient.java:27)
+2021-04-17 16:44:47 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-17 16:44:47 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@659512, receiver=Remoting connection EJB receiver [connection=Remoting connection <272111>,channel=jboss.ejb,nodename=xf0lgz297c7ilpe]} on channel Channel ID 835a2a2b (outbound) of Remoting connection 0078b825 to localhost/127.0.0.1:4447
+2021-04-17 16:44:47 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-17 16:44:47 org.xnio.ChannelListeners.invokeChannelListener(ChannelListeners.java:74) ChannelListeners.java ERROR A channel event listener threw an exception
+java.lang.IllegalStateException
+	at org.xnio.Buffers$4.getResource(Buffers.java:1782)
+	at org.xnio.Buffers$4.getResource(Buffers.java:1768)
+	at org.xnio.channels.FramedMessageChannel.receive(FramedMessageChannel.java:84)
+	at org.jboss.remoting3.remote.ClientConnectionOpenListener$Greeting.handleEvent(ClientConnectionOpenListener.java:138)
+	at org.jboss.remoting3.remote.ClientConnectionOpenListener$Greeting.handleEvent(ClientConnectionOpenListener.java:130)
+	at org.xnio.ChannelListeners.invokeChannelListener(ChannelListeners.java:72)
+	at org.xnio.channels.TranslatingSuspendableChannel.handleReadable(TranslatingSuspendableChannel.java:189)
+	at org.xnio.channels.TranslatingSuspendableChannel$1.handleEvent(TranslatingSuspendableChannel.java:103)
+	at org.xnio.ChannelListeners.invokeChannelListener(ChannelListeners.java:72)
+	at org.xnio.nio.NioHandle.run(NioHandle.java:90)
+	at org.xnio.nio.WorkerThread.run(WorkerThread.java:184)
+2021-04-17 16:44:47 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID 835a2a2b (outbound) of Remoting connection 0078b825 to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-17 16:44:47 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID b3892171 (outbound) of Remoting connection 0078b825 to localhost/127.0.0.1:4447
+2021-04-17 16:44:56 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-17 16:44:56 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-17 16:44:56 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-17 16:45:01 org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:133) ConfigBasedEJBClientContextSelector.java WARN Could not register a EJB receiver for connection to remote://localhost:8080
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.ejb.client.remoting.IoFutureHelper.get(IoFutureHelper.java:93)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:121)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.<init>(ConfigBasedEJBClientContextSelector.java:78)
+	at org.jboss.ejb.client.EJBClientContext.<clinit>(EJBClientContext.java:77)
+	at org.jboss.naming.remote.client.ejb.RemoteNamingEjbClientContextSelector.setupSelector(RemoteNamingEjbClientContextSelector.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.jboss.naming.remote.client.InitialContextFactory.setupEjbContext(InitialContextFactory.java:420)
+	at org.jboss.naming.remote.client.InitialContextFactory.getInitialContext(InitialContextFactory.java:115)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:684)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:307)
+	at javax.naming.InitialContext.init(InitialContext.java:242)
+	at javax.naming.InitialContext.<init>(InitialContext.java:216)
+	at jluee.client.RemoteClient.main(RemoteClient.java:27)
+2021-04-17 16:45:01 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-17 16:45:02 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@11dda2d, receiver=Remoting connection EJB receiver [connection=Remoting connection <ebe538>,channel=jboss.ejb,nodename=xf0lgz297c7ilpe]} on channel Channel ID e8940abd (outbound) of Remoting connection 018192b6 to localhost/127.0.0.1:4447
+2021-04-17 16:45:02 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-17 16:45:02 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID e8940abd (outbound) of Remoting connection 018192b6 to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-17 16:45:02 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID c8d3f991 (outbound) of Remoting connection 018192b6 to localhost/127.0.0.1:4447
+2021-04-18 17:42:48 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-18 17:42:48 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-18 17:42:48 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-18 17:42:54 org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:133) ConfigBasedEJBClientContextSelector.java WARN Could not register a EJB receiver for connection to remote://localhost:8080
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.ejb.client.remoting.IoFutureHelper.get(IoFutureHelper.java:93)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:121)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.<init>(ConfigBasedEJBClientContextSelector.java:78)
+	at org.jboss.ejb.client.EJBClientContext.<clinit>(EJBClientContext.java:77)
+	at org.jboss.naming.remote.client.ejb.RemoteNamingEjbClientContextSelector.setupSelector(RemoteNamingEjbClientContextSelector.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.jboss.naming.remote.client.InitialContextFactory.setupEjbContext(InitialContextFactory.java:420)
+	at org.jboss.naming.remote.client.InitialContextFactory.getInitialContext(InitialContextFactory.java:115)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:684)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:307)
+	at javax.naming.InitialContext.init(InitialContext.java:242)
+	at javax.naming.InitialContext.<init>(InitialContext.java:216)
+	at javaee.ejb.statelessclient.StatelessRemoteClient.main(StatelessRemoteClient.java:21)
+2021-04-18 17:42:54 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-18 17:42:54 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@1740df7, receiver=Remoting connection EJB receiver [connection=Remoting connection <caf6e7>,channel=jboss.ejb,nodename=sd-20190802qzph]} on channel Channel ID da5a776c (outbound) of Remoting connection 0013bc54 to localhost/127.0.0.1:4447
+2021-04-18 17:42:54 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-18 17:42:54 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID ec132ae2 (outbound) of Remoting connection 0013bc54 to localhost/127.0.0.1:4447
+2021-04-18 17:42:54 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID da5a776c (outbound) of Remoting connection 0013bc54 to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-18 17:44:29 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-18 17:44:29 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-18 17:44:29 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-18 17:44:34 org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:133) ConfigBasedEJBClientContextSelector.java WARN Could not register a EJB receiver for connection to remote://localhost:8080
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.ejb.client.remoting.IoFutureHelper.get(IoFutureHelper.java:93)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:121)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.<init>(ConfigBasedEJBClientContextSelector.java:78)
+	at org.jboss.ejb.client.EJBClientContext.<clinit>(EJBClientContext.java:77)
+	at org.jboss.naming.remote.client.ejb.RemoteNamingEjbClientContextSelector.setupSelector(RemoteNamingEjbClientContextSelector.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.jboss.naming.remote.client.InitialContextFactory.setupEjbContext(InitialContextFactory.java:420)
+	at org.jboss.naming.remote.client.InitialContextFactory.getInitialContext(InitialContextFactory.java:115)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:684)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:307)
+	at javax.naming.InitialContext.init(InitialContext.java:242)
+	at javax.naming.InitialContext.<init>(InitialContext.java:216)
+	at javaee.ejb.statelessclient.StatelessRemoteClient.main(StatelessRemoteClient.java:21)
+2021-04-18 17:44:34 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-18 17:44:34 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@1740df7, receiver=Remoting connection EJB receiver [connection=Remoting connection <117e53b>,channel=jboss.ejb,nodename=sd-20190802qzph]} on channel Channel ID 83c6717f (outbound) of Remoting connection 0013bc54 to localhost/127.0.0.1:4447
+2021-04-18 17:44:34 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-18 17:44:34 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID bec9948c (outbound) of Remoting connection 0013bc54 to localhost/127.0.0.1:4447
+2021-04-18 17:44:34 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID 83c6717f (outbound) of Remoting connection 0013bc54 to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-18 17:45:47 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-18 17:45:47 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-18 17:45:47 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-18 17:45:52 org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:133) ConfigBasedEJBClientContextSelector.java WARN Could not register a EJB receiver for connection to remote://localhost:8080
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.ejb.client.remoting.IoFutureHelper.get(IoFutureHelper.java:93)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:121)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.<init>(ConfigBasedEJBClientContextSelector.java:78)
+	at org.jboss.ejb.client.EJBClientContext.<clinit>(EJBClientContext.java:77)
+	at org.jboss.naming.remote.client.ejb.RemoteNamingEjbClientContextSelector.setupSelector(RemoteNamingEjbClientContextSelector.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.jboss.naming.remote.client.InitialContextFactory.setupEjbContext(InitialContextFactory.java:420)
+	at org.jboss.naming.remote.client.InitialContextFactory.getInitialContext(InitialContextFactory.java:115)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:684)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:307)
+	at javax.naming.InitialContext.init(InitialContext.java:242)
+	at javax.naming.InitialContext.<init>(InitialContext.java:216)
+	at javaee.ejb.statelessclient.StatelessRemoteClient.main(StatelessRemoteClient.java:21)
+2021-04-18 17:45:52 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-18 17:45:52 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@659512, receiver=Remoting connection EJB receiver [connection=Remoting connection <272111>,channel=jboss.ejb,nodename=sd-20190802qzph]} on channel Channel ID a415d5e5 (outbound) of Remoting connection 0078b825 to localhost/127.0.0.1:4447
+2021-04-18 17:45:52 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-18 17:45:52 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 94d6cf60 (outbound) of Remoting connection 0078b825 to localhost/127.0.0.1:4447
+2021-04-18 17:45:52 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID a415d5e5 (outbound) of Remoting connection 0078b825 to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-18 17:47:26 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-18 17:47:26 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-18 17:47:26 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-18 17:47:31 org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:133) ConfigBasedEJBClientContextSelector.java WARN Could not register a EJB receiver for connection to remote://localhost:8080
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.ejb.client.remoting.IoFutureHelper.get(IoFutureHelper.java:93)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:121)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.<init>(ConfigBasedEJBClientContextSelector.java:78)
+	at org.jboss.ejb.client.EJBClientContext.<clinit>(EJBClientContext.java:77)
+	at org.jboss.naming.remote.client.ejb.RemoteNamingEjbClientContextSelector.setupSelector(RemoteNamingEjbClientContextSelector.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.jboss.naming.remote.client.InitialContextFactory.setupEjbContext(InitialContextFactory.java:420)
+	at org.jboss.naming.remote.client.InitialContextFactory.getInitialContext(InitialContextFactory.java:115)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:684)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:307)
+	at javax.naming.InitialContext.init(InitialContext.java:242)
+	at javax.naming.InitialContext.<init>(InitialContext.java:216)
+	at javaee.ejb.statelessclient.StatelessRemoteClient.main(StatelessRemoteClient.java:21)
+2021-04-18 17:47:31 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-18 17:47:31 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@1740df7, receiver=Remoting connection EJB receiver [connection=Remoting connection <117e53b>,channel=jboss.ejb,nodename=sd-20190802qzph]} on channel Channel ID a2b85ca6 (outbound) of Remoting connection 0013bc54 to localhost/127.0.0.1:4447
+2021-04-18 17:47:31 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-18 17:47:32 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID a2b85ca6 (outbound) of Remoting connection 0013bc54 to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-18 17:47:32 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID e78a1512 (outbound) of Remoting connection 0013bc54 to localhost/127.0.0.1:4447
+2021-04-18 17:49:02 org.jboss.ejb.client.EJBClient.<clinit>(EJBClient.java:42) EJBClient.java INFO JBoss EJB Client version 1.0.5.Final
+2021-04-18 17:49:02 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-18 17:49:02 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-18 17:49:02 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-18 17:49:07 org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:133) ConfigBasedEJBClientContextSelector.java WARN Could not register a EJB receiver for connection to remote://localhost:8080
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.ejb.client.remoting.IoFutureHelper.get(IoFutureHelper.java:93)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:121)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.<init>(ConfigBasedEJBClientContextSelector.java:78)
+	at org.jboss.ejb.client.EJBClientContext.<clinit>(EJBClientContext.java:77)
+	at org.jboss.ejb.client.EJBInvocationHandler.doInvoke(EJBInvocationHandler.java:120)
+	at org.jboss.ejb.client.EJBInvocationHandler.invoke(EJBInvocationHandler.java:104)
+	at com.sun.proxy.$Proxy0.callEJBOne(Unknown Source)
+	at javaee.ejb.statelessclient.StatelessLocalClient.main(StatelessLocalClient.java:26)
+2021-04-18 17:49:44 org.jboss.ejb.client.EJBClient.<clinit>(EJBClient.java:42) EJBClient.java INFO JBoss EJB Client version 1.0.5.Final
+2021-04-18 17:49:44 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-18 17:49:44 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-18 17:49:44 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-18 17:49:49 org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:133) ConfigBasedEJBClientContextSelector.java WARN Could not register a EJB receiver for connection to remote://localhost:8080
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.ejb.client.remoting.IoFutureHelper.get(IoFutureHelper.java:93)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:121)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.<init>(ConfigBasedEJBClientContextSelector.java:78)
+	at org.jboss.ejb.client.EJBClientContext.<clinit>(EJBClientContext.java:77)
+	at org.jboss.ejb.client.EJBInvocationHandler.doInvoke(EJBInvocationHandler.java:120)
+	at org.jboss.ejb.client.EJBInvocationHandler.invoke(EJBInvocationHandler.java:104)
+	at com.sun.proxy.$Proxy0.callEJBOne(Unknown Source)
+	at javaee.ejb.statelessclient.StatelessLocalClient.main(StatelessLocalClient.java:26)
+2021-04-18 17:51:04 org.jboss.ejb.client.EJBClient.<clinit>(EJBClient.java:42) EJBClient.java INFO JBoss EJB Client version 1.0.5.Final
+2021-04-18 17:51:04 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-18 17:51:04 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-18 17:51:04 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-18 17:51:05 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-18 17:51:05 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@19318fa, receiver=Remoting connection EJB receiver [connection=Remoting connection <1160709>,channel=jboss.ejb,nodename=sd-20190802qzph]} on channel Channel ID d9ee27cc (outbound) of Remoting connection 01d6d22e to localhost/127.0.0.1:4447
+2021-04-18 17:51:05 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-18 17:51:05 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID d9ee27cc (outbound) of Remoting connection 01d6d22e to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-20 12:52:52 org.jboss.ejb.client.EJBClient.<clinit>(EJBClient.java:42) EJBClient.java INFO JBoss EJB Client version 1.0.5.Final
+2021-04-20 12:52:52 org.jboss.ejb.client.EJBClient.<clinit>(EJBClient.java:42) EJBClient.java INFO JBoss EJB Client version 1.0.5.Final
+2021-04-20 12:52:52 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-20 12:52:52 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-20 12:52:52 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-20 12:52:52 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-20 12:52:52 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-20 12:52:52 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-20 12:52:57 org.jboss.ejb.client.EJBClient.<clinit>(EJBClient.java:42) EJBClient.java INFO JBoss EJB Client version 1.0.5.Final
+2021-04-20 12:52:57 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-20 12:52:57 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-20 12:52:57 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-20 12:52:57 org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:133) ConfigBasedEJBClientContextSelector.java WARN Could not register a EJB receiver for connection to remote://localhost:4447
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.ejb.client.remoting.IoFutureHelper.get(IoFutureHelper.java:93)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:121)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.<init>(ConfigBasedEJBClientContextSelector.java:78)
+	at org.jboss.ejb.client.EJBClientContext.<clinit>(EJBClientContext.java:77)
+	at org.jboss.ejb.client.EJBInvocationHandler.doInvoke(EJBInvocationHandler.java:120)
+	at org.jboss.ejb.client.EJBInvocationHandler.invoke(EJBInvocationHandler.java:104)
+	at com.sun.proxy.$Proxy0.callEJBOne(Unknown Source)
+	at javaee.ejb.statelessclient.StatelessLocalClient.main(StatelessLocalClient.java:26)
+2021-04-20 12:52:57 org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:133) ConfigBasedEJBClientContextSelector.java WARN Could not register a EJB receiver for connection to remote://localhost:4447
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.ejb.client.remoting.IoFutureHelper.get(IoFutureHelper.java:93)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:121)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.<init>(ConfigBasedEJBClientContextSelector.java:78)
+	at org.jboss.ejb.client.EJBClientContext.<clinit>(EJBClientContext.java:77)
+	at org.jboss.ejb.client.EJBInvocationHandler.doInvoke(EJBInvocationHandler.java:120)
+	at org.jboss.ejb.client.EJBInvocationHandler.invoke(EJBInvocationHandler.java:104)
+	at com.sun.proxy.$Proxy0.callEJBOne(Unknown Source)
+	at javaee.ejb.statelessclient.StatelessLocalClient.main(StatelessLocalClient.java:26)
+2021-04-20 12:53:02 org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:133) ConfigBasedEJBClientContextSelector.java WARN Could not register a EJB receiver for connection to remote://localhost:4447
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.ejb.client.remoting.IoFutureHelper.get(IoFutureHelper.java:93)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.setupEJBReceivers(ConfigBasedEJBClientContextSelector.java:121)
+	at org.jboss.ejb.client.remoting.ConfigBasedEJBClientContextSelector.<init>(ConfigBasedEJBClientContextSelector.java:78)
+	at org.jboss.ejb.client.EJBClientContext.<clinit>(EJBClientContext.java:77)
+	at org.jboss.ejb.client.EJBInvocationHandler.doInvoke(EJBInvocationHandler.java:120)
+	at org.jboss.ejb.client.EJBInvocationHandler.invoke(EJBInvocationHandler.java:104)
+	at com.sun.proxy.$Proxy0.callEJBOne(Unknown Source)
+	at javaee.ejb.statelessclient.StatelessLocalClient.main(StatelessLocalClient.java:26)
+2021-04-20 12:53:27 org.jboss.ejb.client.EJBClient.<clinit>(EJBClient.java:42) EJBClient.java INFO JBoss EJB Client version 1.0.5.Final
+2021-04-20 12:53:27 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-20 12:53:27 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-20 12:53:27 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-20 12:53:27 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-20 12:53:27 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@19318fa, receiver=Remoting connection EJB receiver [connection=Remoting connection <1160709>,channel=jboss.ejb,nodename=sd-20190802qzph]} on channel Channel ID b6d9aff1 (outbound) of Remoting connection 0150b06b to localhost/127.0.0.1:4447
+2021-04-20 12:53:27 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-20 12:53:27 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID b6d9aff1 (outbound) of Remoting connection 0150b06b to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-20 12:56:16 org.jboss.ejb.client.EJBClient.<clinit>(EJBClient.java:42) EJBClient.java INFO JBoss EJB Client version 1.0.5.Final
+2021-04-20 12:56:16 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-20 12:56:16 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-20 12:56:16 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-20 12:56:16 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-20 12:56:16 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@4d0371, receiver=Remoting connection EJB receiver [connection=Remoting connection <128055b>,channel=jboss.ejb,nodename=sd-20190802qzph]} on channel Channel ID f86c3d98 (outbound) of Remoting connection 0080d11b to localhost/127.0.0.1:4447
+2021-04-20 12:56:16 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-20 12:56:16 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID f86c3d98 (outbound) of Remoting connection 0080d11b to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-20 12:57:32 org.jboss.ejb.client.EJBClient.<clinit>(EJBClient.java:42) EJBClient.java INFO JBoss EJB Client version 1.0.5.Final
+2021-04-20 12:57:32 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-20 12:57:32 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-20 12:57:32 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-20 12:57:32 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-20 12:57:32 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@19318fa, receiver=Remoting connection EJB receiver [connection=Remoting connection <1160709>,channel=jboss.ejb,nodename=sd-20190802qzph]} on channel Channel ID cf58b57d (outbound) of Remoting connection 01d6d22e to localhost/127.0.0.1:4447
+2021-04-20 12:57:32 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-20 12:57:32 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID cf58b57d (outbound) of Remoting connection 01d6d22e to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-20 13:00:00 org.jboss.ejb.client.EJBClient.<clinit>(EJBClient.java:42) EJBClient.java INFO JBoss EJB Client version 1.0.5.Final
+2021-04-20 13:00:01 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-20 13:00:01 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-20 13:00:01 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-20 13:00:01 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-20 13:00:01 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@4d0371, receiver=Remoting connection EJB receiver [connection=Remoting connection <128055b>,channel=jboss.ejb,nodename=sd-20190802qzph]} on channel Channel ID f7cd6102 (outbound) of Remoting connection 0080d11b to localhost/127.0.0.1:4447
+2021-04-20 13:00:01 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-20 13:00:01 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID f7cd6102 (outbound) of Remoting connection 0080d11b to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-20 13:00:13 org.jboss.ejb.client.EJBClient.<clinit>(EJBClient.java:42) EJBClient.java INFO JBoss EJB Client version 1.0.5.Final
+2021-04-20 13:00:13 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-20 13:00:13 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-20 13:00:13 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-20 13:00:13 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-20 13:00:14 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@19318fa, receiver=Remoting connection EJB receiver [connection=Remoting connection <1160709>,channel=jboss.ejb,nodename=sd-20190802qzph]} on channel Channel ID d58c13cf (outbound) of Remoting connection 01d6d22e to localhost/127.0.0.1:4447
+2021-04-20 13:00:14 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-20 13:00:14 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID d58c13cf (outbound) of Remoting connection 01d6d22e to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-20 13:00:50 org.jboss.ejb.client.EJBClient.<clinit>(EJBClient.java:42) EJBClient.java INFO JBoss EJB Client version 1.0.5.Final
+2021-04-20 13:00:50 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-20 13:00:50 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-20 13:00:50 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-20 13:00:50 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-20 13:00:50 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@1d0462, receiver=Remoting connection EJB receiver [connection=Remoting connection <77bcd5>,channel=jboss.ejb,nodename=sd-20190802qzph]} on channel Channel ID bbb60fc2 (outbound) of Remoting connection 01204d1a to localhost/127.0.0.1:4447
+2021-04-20 13:00:50 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-20 13:00:50 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID bbb60fc2 (outbound) of Remoting connection 01204d1a to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-20 13:01:15 org.jboss.ejb.client.EJBClient.<clinit>(EJBClient.java:42) EJBClient.java INFO JBoss EJB Client version 1.0.5.Final
+2021-04-20 13:01:15 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-20 13:01:15 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-20 13:01:15 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-20 13:01:15 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-20 13:01:15 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@1d0462, receiver=Remoting connection EJB receiver [connection=Remoting connection <77bcd5>,channel=jboss.ejb,nodename=sd-20190802qzph]} on channel Channel ID c81529f5 (outbound) of Remoting connection 01204d1a to localhost/127.0.0.1:4447
+2021-04-20 13:01:15 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-20 13:01:15 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID c81529f5 (outbound) of Remoting connection 01204d1a to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-20 13:03:14 org.jboss.ejb.client.EJBClient.<clinit>(EJBClient.java:42) EJBClient.java INFO JBoss EJB Client version 1.0.5.Final
+2021-04-20 13:03:14 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-20 13:03:14 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-20 13:03:14 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-20 13:03:14 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-20 13:03:14 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@19318fa, receiver=Remoting connection EJB receiver [connection=Remoting connection <1160709>,channel=jboss.ejb,nodename=sd-20190802qzph]} on channel Channel ID 810871f6 (outbound) of Remoting connection 01d6d22e to localhost/127.0.0.1:4447
+2021-04-20 13:03:14 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-20 13:03:14 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID 810871f6 (outbound) of Remoting connection 01d6d22e to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-20 13:04:10 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-20 13:04:10 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-20 13:04:10 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-20 13:04:10 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-20 13:04:10 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@170fe4e, receiver=Remoting connection EJB receiver [connection=Remoting connection <a5adc>,channel=jboss.ejb,nodename=sd-20190802qzph]} on channel Channel ID fc62b4e5 (outbound) of Remoting connection 01e648bd to localhost/127.0.0.1:4447
+2021-04-20 13:04:10 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-20 13:04:10 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-20 13:04:10 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@f4d063, receiver=Remoting connection EJB receiver [connection=Remoting connection <117e53b>,channel=jboss.ejb,nodename=sd-20190802qzph]} on channel Channel ID ac9430fe (outbound) of Remoting connection 01a5dac0 to localhost/127.0.0.1:4447
+2021-04-20 13:04:10 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-20 13:04:10 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID ac9430fe (outbound) of Remoting connection 01a5dac0 to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-20 13:04:10 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID fc62b4e5 (outbound) of Remoting connection 01e648bd to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-20 13:04:10 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID c24d6116 (outbound) of Remoting connection 01a5dac0 to localhost/127.0.0.1:4447
+2021-04-20 13:12:31 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-20 13:12:31 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-20 13:12:31 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-20 13:12:31 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-20 13:12:31 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@460d4, receiver=Remoting connection EJB receiver [connection=Remoting connection <1996e15>,channel=jboss.ejb,nodename=sd-20190802qzph]} on channel Channel ID e7e3ce94 (outbound) of Remoting connection 01fc212d to localhost/127.0.0.1:4447
+2021-04-20 13:12:31 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-20 13:12:31 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-20 13:12:31 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@6afa2, receiver=Remoting connection EJB receiver [connection=Remoting connection <caf6e7>,channel=jboss.ejb,nodename=sd-20190802qzph]} on channel Channel ID ce69cdb7 (outbound) of Remoting connection 014c428f to localhost/127.0.0.1:4447
+2021-04-20 13:12:31 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-20 13:12:31 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID e7e3ce94 (outbound) of Remoting connection 01fc212d to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-20 13:12:31 org.jboss.naming.remote.protocol.v1.RemoteNamingStoreV1$MessageReceiver.handleEnd(RemoteNamingStoreV1.java:222) RemoteNamingStoreV1.java ERROR Channel end notification received, closing channel Channel ID 9abf8459 (outbound) of Remoting connection 014c428f to localhost/127.0.0.1:4447
+2021-04-20 13:12:31 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID ce69cdb7 (outbound) of Remoting connection 014c428f to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-20 15:20:11 org.jboss.ejb.client.EJBClient.<clinit>(EJBClient.java:42) EJBClient.java INFO JBoss EJB Client version 1.0.5.Final
+2021-04-20 15:20:11 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-20 15:20:11 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-20 15:20:11 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-20 15:20:12 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-20 15:20:12 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@4d0371, receiver=Remoting connection EJB receiver [connection=Remoting connection <128055b>,channel=jboss.ejb,nodename=sd-20190802qzph]} on channel Channel ID a38fd1eb (outbound) of Remoting connection 0080d11b to localhost/127.0.0.1:4447
+2021-04-20 15:20:12 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-20 15:20:12 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID a38fd1eb (outbound) of Remoting connection 0080d11b to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-20 16:11:48 org.jboss.ejb.client.EJBClient.<clinit>(EJBClient.java:42) EJBClient.java INFO JBoss EJB Client version 1.0.5.Final
+2021-04-20 16:11:48 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-20 16:11:48 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-20 16:11:48 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-20 16:11:48 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-20 16:11:48 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@4d0371, receiver=Remoting connection EJB receiver [connection=Remoting connection <128055b>,channel=jboss.ejb,nodename=sd-20190802qzph]} on channel Channel ID ff1c8cbd (outbound) of Remoting connection 0080d11b to localhost/127.0.0.1:4447
+2021-04-20 16:11:48 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-20 16:11:48 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID ff1c8cbd (outbound) of Remoting connection 0080d11b to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-20 16:11:52 org.jboss.ejb.client.EJBClient.<clinit>(EJBClient.java:42) EJBClient.java INFO JBoss EJB Client version 1.0.5.Final
+2021-04-20 16:11:52 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-20 16:11:52 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-20 16:11:52 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-20 16:11:52 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-20 16:11:52 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@4d0371, receiver=Remoting connection EJB receiver [connection=Remoting connection <128055b>,channel=jboss.ejb,nodename=sd-20190802qzph]} on channel Channel ID d8cc85c0 (outbound) of Remoting connection 0080d11b to localhost/127.0.0.1:4447
+2021-04-20 16:11:52 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-20 16:11:52 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID d8cc85c0 (outbound) of Remoting connection 0080d11b to localhost/127.0.0.1:4447 can no longer process messages
+2021-04-20 16:12:15 org.jboss.ejb.client.EJBClient.<clinit>(EJBClient.java:42) EJBClient.java INFO JBoss EJB Client version 1.0.5.Final
+2021-04-20 16:12:15 org.xnio.Xnio.<clinit>(Xnio.java:63) Xnio.java INFO XNIO Version 3.0.3.GA
+2021-04-20 16:12:15 org.xnio.nio.NioXnio.<clinit>(NioXnio.java:55) NioXnio.java INFO XNIO NIO Implementation Version 3.0.3.GA
+2021-04-20 16:12:15 org.jboss.remoting3.EndpointImpl.<clinit>(EndpointImpl.java:70) EndpointImpl.java INFO JBoss Remoting version 3.2.3.GA
+2021-04-20 16:12:15 org.jboss.ejb.client.remoting.VersionReceiver.handleMessage(VersionReceiver.java:101) VersionReceiver.java INFO Received server version 1 and marshalling strategies [river]
+2021-04-20 16:12:15 org.jboss.ejb.client.remoting.RemotingConnectionEJBReceiver.associate(RemotingConnectionEJBReceiver.java:162) RemotingConnectionEJBReceiver.java INFO Successful version handshake completed for receiver context EJBReceiverContext{clientContext=org.jboss.ejb.client.EJBClientContext@19318fa, receiver=Remoting connection EJB receiver [connection=Remoting connection <1160709>,channel=jboss.ejb,nodename=sd-20190802qzph]} on channel Channel ID a048d254 (outbound) of Remoting connection 01d6d22e to localhost/127.0.0.1:4447
+2021-04-20 16:12:15 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleMessage(ChannelAssociation.java:392) ChannelAssociation.java WARN Unsupported message received with header 0xffffffff
+2021-04-20 16:12:15 org.jboss.ejb.client.remoting.ChannelAssociation$ResponseReceiver.handleEnd(ChannelAssociation.java:370) ChannelAssociation.java INFO Channel Channel ID a048d254 (outbound) of Remoting connection 01d6d22e to localhost/127.0.0.1:4447 can no longer process messages

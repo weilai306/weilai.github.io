@@ -1,0 +1,82 @@
+﻿# Host: localhost  (Version: 5.6.14)
+# Date: 2015-03-09 15:56:05
+# Generator: MySQL-Front 5.3  (Build 2.42)
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE */;
+/*!40101 SET SQL_MODE='STRICT_TRANS_TABLES,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES */;
+/*!40103 SET SQL_NOTES='ON' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS */;
+/*!40014 SET FOREIGN_KEY_CHECKS=0 */;
+
+#
+# Source for table "student"
+#
+
+DROP TABLE IF EXISTS `student`;
+CREATE TABLE `student` (
+  `Id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(50) DEFAULT NULL,
+  `gender` varchar(50) DEFAULT NULL,
+  `major` varchar(50) DEFAULT NULL,
+  PRIMARY KEY (`Id`)
+) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=utf8 ROW_FORMAT=COMPACT;
+
+#
+# Data for table "student"
+#
+
+
+#
+# Source for table "teacher"
+#
+
+DROP TABLE IF EXISTS `teacher`;
+CREATE TABLE `teacher` (
+  `Id` int(11) NOT NULL AUTO_INCREMENT,
+  `age` int(11) DEFAULT NULL,
+  `gender` varchar(10) DEFAULT NULL,
+  `teacherName` varchar(10) DEFAULT NULL,
+  PRIMARY KEY (`Id`)
+) ENGINE=InnoDB AUTO_INCREMENT=17 DEFAULT CHARSET=utf8 ROW_FORMAT=COMPACT;
+
+#
+# Data for table "teacher"
+#
+
+
+#
+# Source for table "course"
+#
+
+DROP TABLE IF EXISTS `course`;
+CREATE TABLE `course` (
+  `Id` int(11) NOT NULL AUTO_INCREMENT,
+  `teacher_id` int(11) DEFAULT NULL,
+  `student_id` int(11) DEFAULT NULL,
+  `course` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`Id`),
+  KEY `teacher_id` (`teacher_id`),
+  KEY `student_id` (`student_id`),
+  CONSTRAINT `course_ibfk_1` FOREIGN KEY (`teacher_id`) REFERENCES `teacher` (`Id`),
+  CONSTRAINT `course_ibfk_2` FOREIGN KEY (`student_id`) REFERENCES `student` (`Id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
+
+#
+# Data for table "course"
+#
+
+
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
